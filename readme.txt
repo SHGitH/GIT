@@ -5,3 +5,5 @@ Git is a free software!
 Git is created by Linus!
 
 Git is fantastic!
+
+My stupid boss still likes SVN!
