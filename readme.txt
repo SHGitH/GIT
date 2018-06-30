@@ -9,3 +9,5 @@ Git is fantastic!
 My stupid boss still likes SVN!
 
 Merge branch feature with no-ff!
+
+Modify a bug!
